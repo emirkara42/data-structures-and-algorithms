@@ -1,0 +1,22 @@
+# C/C++ derleme dosyaları
+*.o
+*.obj
+*.exe
+*.out
+
+# Java derleme dosyaları
+*.class
+*.jar
+*.war
+*.ear
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE klasörleri
+.vscode/
+.idea/
+
+# Gizli dosyalar
+.env
